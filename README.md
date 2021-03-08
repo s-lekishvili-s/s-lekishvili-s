@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @s-lekishvili-s, certificated ethichal hacker(CEH),truoubleshooter
 - 👀 I’m interested in pranking people.
-- 🌱 I’m currently learning CS,EH,coding with Py and C++
+- 🌱 I’m currently learning CS,basic hacking fundamentals using windows contributions,coding with Py and C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me by some way you will find one.
 - 
